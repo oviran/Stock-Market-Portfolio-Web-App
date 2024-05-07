@@ -19,7 +19,7 @@ The project implements Clean Architecture, CQRS pattern, minimal api with api ve
 ### Clone the repository
 
 ```
-git clone git@github.com:flavours/getting-started-with-spring-boot.git
+git clone https://github.com/oviran/Stock-Market-Portfolio-Web-App.git
 ```
 
 ### Build the project
